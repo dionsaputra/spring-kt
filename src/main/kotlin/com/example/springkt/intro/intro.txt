@@ -1,0 +1,64 @@
+/*
+AGENDA:
+- hello world
+- variables
+  - val (immutable)
+    - defer assignment
+    - lazy assignment
+  - var (mutable)
+    - late init
+- types
+  - basic types
+    - type inference
+    - numeric
+    - string
+      - multi line string
+  - type checking and casting
+    - is operator
+    - as operator
+    - smart casting
+- null safety
+- control flow
+  - if, when, loop, while, try
+  - statement vs expression
+- functions
+  - functions
+    - overload?
+  - lambdas
+    - higher order functions
+    - lambda expression
+  - inline
+
+- classes and objects
+  - class
+    - declare class
+    - constructor
+      - primary
+      - secondary
+      - initializer
+  - inheritance
+    - open
+    - override
+      - methods
+      - properties
+  - properties
+    - custom getter, setter
+  - interfaces
+    - default implementation
+  - extensions
+    - function
+    - property
+  - data class
+    - purpose
+    - builder alternative
+    - equality
+  - sealed class
+    - purpose
+  - object
+    - expression
+      - implementing interface
+      - return value
+    - declaration
+      - singleton
+      - companion
+*/
