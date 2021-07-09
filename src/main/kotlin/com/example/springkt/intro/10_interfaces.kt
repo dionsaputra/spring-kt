@@ -1,4 +1,4 @@
-package com.example.springkt.intro.skip
+package com.example.springkt.intro
 
 interface Calculator {
   fun plus(x: Int, y: Int): Int

@@ -1,4 +1,4 @@
-package com.example.springkt.intro.skip
+package com.example.springkt.intro
 
 // TODO: fun in kotlin
 fun fibo(x: Int): Int {

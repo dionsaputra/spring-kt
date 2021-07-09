@@ -1,4 +1,4 @@
-package com.example.springkt.intro.skip
+package com.example.springkt.intro
 
 // TODO: open class
 open class Person(val name: String)
