@@ -8,18 +8,18 @@ AGENDA:
   - var (mutable)
     - late init
 - types
-  - basic types
-    - type inference
-    - numeric
-    - string
-      - multi line string
+  - basic types [SKIP]
+    - type inference [SKIP]
+    - numeric [SKIP]
+    - string [SKIP]
+      - multi line string [SKIP]
   - type checking and casting
-    - is operator
-    - as operator
+    - is operator [SKIP]
+    - as operator [SKIP]
     - smart casting
 - null safety
 - control flow
-  - if, when, loop, while, try
+  - if, when, loop, while, try [SKIP]
   - statement vs expression
 - functions
   - functions
@@ -28,37 +28,28 @@ AGENDA:
     - higher order functions
     - lambda expression
   - inline
-
 - classes and objects
   - class
     - declare class
-    - constructor
-      - primary
-      - secondary
-      - initializer
-  - inheritance
-    - open
-    - override
-      - methods
-      - properties
-  - properties
+    - constructor [SKIP]
+      - primary [SKIP]
+      - secondary [SKIP]
+      - initializer [SKIP]
+  - inheritance [SKIP]
+    - open [SKIP]
+    - override [SKIP]
+      - methods [SKIP]
+      - properties [SKIP]
+  - properties [SKIP]
     - custom getter, setter
-  - interfaces
+  - interfaces [SKIP]
     - default implementation
   - extensions
     - function
     - property
-  - data class
-    - purpose
-    - builder alternative
-    - equality
-  - sealed class
-    - purpose
-  - object
-    - expression
-      - implementing interface
-      - return value
-    - declaration
-      - singleton
-      - companion
+  - special class
+    - data class
+    - sealed class
+
+  - springboot sample
 */

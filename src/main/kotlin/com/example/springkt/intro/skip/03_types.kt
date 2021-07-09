@@ -1,4 +1,4 @@
-package com.example.springkt.intro
+package com.example.springkt.intro.skip
 
 fun main() {
   // TODO: integer type (Byte, Short, Int, Long)
